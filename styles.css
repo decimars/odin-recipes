@@ -1,0 +1,21 @@
+html {
+    min-height: 100vh;
+    background: linear-gradient(rgb(109, 161, 228), rgb(190, 199, 240));
+    box-sizing: border-box;
+}
+
+.header {
+    background: none;
+    text-align: center;
+    font-size: 60px;
+    background: none;
+    border-bottom: solid black 5px;
+    width: fit-content;
+    margin-left: 800px;
+
+}
+
+.chef {
+    background: none;
+    margin-left: 800px;
+}
