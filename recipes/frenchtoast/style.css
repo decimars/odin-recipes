@@ -17,16 +17,18 @@ html {
 
 }
 
-.chef {
+.frenchtoast {
     background: none;
     display: block;
     margin-left: auto;
     margin-right: auto;
 }
 
-.recipes {
+.text {
+    margin-left: 725px;
     display: block;
+}
+
+.return {
     text-align: center;
-    margin-left: auto;
-    margin-right: auto;
 }
